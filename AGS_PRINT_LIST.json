@@ -1,346 +1,524 @@
 [
-  [
-    "https://agssmc.org/newsletter/img/2022/cover1.PNG",
-    "EDITOR : CLARISSA SHERINE WIDJAJA",
-    "November 2022",
-    "ISSUE 1"
-  ],
-  [
-    "EDITOR : MANUELA CONCHA",
-    "ISSUE 2",
-    "March 2023",
-    "https://agssmc.org/newsletter/img/2022/cover2.PNG"
-  ],
-  [
-    "EDITOR : MANUELA CONCHA",
-    "April 2023",
-    "https://agssmc.org/newsletter/img/2022/cover3.PNG",
-    "ISSUE 3"
-  ],
-  [
-    "EDITOR : MANUELA CONCHA",
-    "May 2023",
-    "https://agssmc.org/newsletter/img/2022/cover4.PNG",
-    "ISSUE 4"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2021/cover1.jpg",
-    "EDITOR : CLARISSA SHERINE WIDJAJA",
-    "November 2021",
-    "ISSUE 1"
-  ],
-  [
-    "ISSUE 2",
-    "EDITOR : CLARISSA SHERINE WIDJAJA",
-    "November 2021",
-    "https://agssmc.org/newsletter/img/2021/cover2.jpg"
-  ],
-  [
-    "EDITOR : CLARISSA SHERINE WIDJAJA",
-    "https://agssmc.org/newsletter/img/2021/cover3.jpg",
-    "ISSUE 3",
-    "November 2021"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2021/cover4.PNG",
-    "EDITOR : JASON ELLIS",
-    "ISSUE 4",
-    "April 2022"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2021/cover5.PNG",
-    "May 2022",
-    "ISSUE 5",
-    "EDITOR : JASON ELLIS"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2021/cover6.PNG",
-    "ISSUE 6",
-    "May 2022",
-    "EDITOR : JASON ELLIS"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2020/cover1.svg",
-    "November 2020",
-    "EDITOR : SOOLEEN KIM",
-    "ISSUE 1"
-  ],
-  [
-    "EDITOR : KRISTIVERA VIDINATI",
-    "ISSUE 2",
-    "March 2021",
-    "https://agssmc.org/newsletter/img/2020/cover2.svg"
-  ],
-  [
-    "EDITOR : KRISTIVERA VIDINATI",
-    "https://agssmc.org/newsletter/img/2020/cover3.svg",
-    "ISSUE 3",
-    "April 2021"
-  ],
-  [
-    "EDITOR : KRISTIVERA VIDINATI",
-    "July 2021",
-    "ISSUE 4",
-    "https://agssmc.org/newsletter/img/2020/cover4.svg"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2019/cover1.svg",
-    "October 2019",
-    "EDITOR : NATASHA GRACE",
-    "ISSUE 1"
-  ],
-  [
-    "November 2019",
-    "ISSUE 2",
-    "EDITOR : NATASHA GRACE",
-    "https://agssmc.org/newsletter/img/2019/cover2.svg"
-  ],
-  [
-    "EDITOR : NATASHA GRACE",
-    "ISSUE 3",
-    "https://agssmc.org/newsletter/img/2019/cover3.svg",
-    "December 2019"
-  ],
-  [
-    "EDITOR : KIM HWANG YEO",
-    "https://agssmc.org/newsletter/img/2019/cover4.svg",
-    "ISSUE 4",
-    "May 2020"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2018/cover1.svg",
-    "EDITOR : ARIANA KALANTARI",
-    "ISSUE 1",
-    "November 2018"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2018/cover2.svg",
-    "ISSUE 2",
-    "December 2018",
-    "EDITOR : ARIANA KALANTARI"
-  ],
-  [
-    "April 2019",
-    "https://agssmc.org/newsletter/img/2018/cover3.svg",
-    "ISSUE 3",
-    "EDITOR : ARIANA KALANTARI"
-  ],
-  [
-    "May 2019",
-    "EDITOR : ARIANA KALANTARI",
-    "https://agssmc.org/newsletter/img/2018/cover4.svg",
-    "ISSUE 4"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2017/cover1.svg",
-    "EDITOR : THOMAS HOVERSEN",
-    "November 2017",
-    "ISSUE 1"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2017/cover2.svg",
-    "ISSUE 2",
-    "December 2017",
-    "EDITOR : THOMAS HOVERSEN"
-  ],
-  [
-    "March 2018",
-    "https://agssmc.org/newsletter/img/2017/cover3.svg",
-    "ISSUE 3",
-    "EDITOR : THOMAS HOVERSEN"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2017/cover4.svg",
-    "EDITOR : THOMAS HOVERSEN",
-    "ISSUE 4",
-    "April 2018"
-  ],
-  [
-    "November 2019",
-    null,
-    "EDITOR : NATASHA GRACE"
-  ],
-  [
-    "EDITOR : NATASHA GRACE",
-    "October 2019",
-    null
-  ],
-  [
-    "EDITOR : NATASHA GRACE",
-    "October 2019",
-    null
-  ],
-  [
-    "EDITOR : NATASHA GRACE",
-    "October 2019",
-    null
-  ],
-  [
-    "EDITOR : ELIZABETH KING",
-    "https://agssmc.org/newsletter/img/2015/cover1.svg",
-    "October 2015",
-    "ISSUE 1"
-  ],
-  [
-    "EDITOR : ELIZABETH KING",
-    "ISSUE 2",
-    "https://agssmc.org/newsletter/img/2015/cover2.svg",
-    "November 2015"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2015/cover3.svg",
-    "EDITOR : ELIZABETH KING",
-    "ISSUE 3",
-    "December 2015"
-  ],
-  [
-    "April 2016",
-    "EDITOR : ELIZABETH KING",
-    "ISSUE 4",
-    "https://agssmc.org/newsletter/img/2015/cover4.svg"
-  ],
-  [
-    "April 2016",
-    "EDITOR : ELIZABETH KING",
-    "ISSUE 5",
-    "https://agssmc.org/newsletter/img/2015/cover4.svg"
-  ],
-  [
-    "EDITOR : ELIZABETH KING",
-    "June 2016",
-    "ISSUE 6",
-    "https://agssmc.org/newsletter/img/2015/cover4.svg"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2014/cover1.svg",
-    "EDITOR : EVELYN HUYNH",
-    "October 2014",
-    "ISSUE 1"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2014/cover1.svg",
-    "November 2014",
-    "ISSUE 2",
-    "EDITOR : EVELYN HUYNH"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2014/cover1.svg",
-    "December 2014",
-    "ISSUE 3",
-    "EDITOR : EVELYN HUYNH"
-  ],
-  [
-    "ISSUE 2",
-    "May 2015",
-    "EDITOR : ALANA RIVERA",
-    "https://agssmc.org/newsletter/img/2014/cover2.svg"
-  ],
-  [
-    "EDITOR : JONATHAN CANAHUI",
-    "https://agssmc.org/newsletter/img/2013/cover1.svg",
-    "October 2013",
-    "ISSUE 1"
-  ],
-  [
-    "EDITOR : JONATHAN CANAHUI",
-    "ISSUE 2",
-    "November 2013",
-    "https://agssmc.org/newsletter/img/2013/cover2.svg"
-  ],
-  [
-    "EDITOR : JONATHAN CANAHUI",
-    "October 2019",
-    "https://agssmc.org/newsletter/img/2013/cover3.svg",
-    "ISSUE 3"
-  ],
-  [
-    "EDITOR : SIERRA MCDONALD",
-    "https://agssmc.org/newsletter/img/2012/cover1.svg",
-    "October 2012",
-    "ISSUE 1"
-  ],
-  [
-    "EDITOR : SIERRA MCDONALD",
-    "ISSUE 2",
-    "November 2012",
-    "https://agssmc.org/newsletter/img/2012/cover2.svg"
-  ],
-  [
-    "EDITOR : SIERRA MCDONALD",
-    "https://agssmc.org/newsletter/img/2012/cover3.svg",
-    "ISSUE 3",
-    "December 2012"
-  ],
-  [
-    "April 2013",
-    "EDITOR : JONATHAN CANAHUI",
-    "https://agssmc.org/newsletter/img/2012/cover4.svg",
-    "ISSUE 4"
-  ],
-  [
-    "November 2019",
-    null,
-    "EDITOR : NATASHA GRACE",
-    "ISSUE 0"
-  ],
-  [
-    "October 2019",
-    null,
-    "EDITOR : NATASHA GRACE",
-    "ISSUE 0"
-  ],
-  [
-    "October 2019",
-    null,
-    "EDITOR : NATASHA GRACE",
-    "ISSUE 0"
-  ],
-  [
-    "October 2019",
-    null,
-    "EDITOR : NATASHA GRACE",
-    "ISSUE 0"
-  ],
-  [
-    "EDITOR : LUIS GOMEZ",
-    "December 2010",
-    "ISSUE 3",
-    "https://agssmc.org/newsletter/img/2010/cover3.svg"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2009/cover1.svg",
-    "October 2009",
-    "ISSUE 1",
-    "EDITOR : CESAR MONTERO"
-  ],
-  [
-    "December 2009",
-    "https://agssmc.org/newsletter/img/2009/cover2.svg",
-    "ISSUE 3",
-    "EDITOR : CESAR MONTERO"
-  ],
-  [
-    "https://agssmc.org/newsletter/img/2009/cover3.svg",
-    "April 2010",
-    "ISSUE 4",
-    "EDITOR : CESAR MONTERO"
-  ],
-  [
-    "ISSUE 2",
-    "November 2008",
-    "EDITOR : JOHN KIM",
-    "https://agssmc.org/newsletter/img/2008/cover1.svg"
-  ],
-  [
-    "December 2008",
-    "https://agssmc.org/newsletter/img/2008/cover2.svg",
-    "EDITOR : SILVINA BAE",
-    "ISSUE 3"
-  ],
-  [
-    "ISSUE 4",
-    "EDITOR : KAREN B. STARK",
-    "https://agssmc.org/newsletter/img/2008/cover3.svg",
-    "March 2009"
-  ]
+  {
+    "detailed_date": "Date : 11.06.2008",
+    "date": "November 2008",
+    "issue": "Issue 2",
+    "editor": "EDITOR : JOHN KIM",
+    "image_url": "https://agssmc.org/newsletter/img/2008/cover1.svg",
+    "page_number": "16 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 12.04.2008",
+    "date": "December 2008",
+    "issue": "Issue 3",
+    "editor": "EDITOR : SILVINA BAE",
+    "image_url": "https://agssmc.org/newsletter/img/2008/cover2.svg",
+    "page_number": "7pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 03.26.2009",
+    "date": "March 2009",
+    "issue": "Issue 4",
+    "editor": "EDITOR : KAREN B. STARK",
+    "image_url": "https://agssmc.org/newsletter/img/2008/cover3.svg",
+    "page_number": "8 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.08.2009",
+    "date": "October 2009",
+    "issue": "Issue 1",
+    "editor": "EDITOR : CESAR MONTERO",
+    "image_url": "https://agssmc.org/newsletter/img/2009/cover1.svg",
+    "page_number": "16 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 12.03.2009",
+    "date": "December 2009",
+    "issue": "Issue 3",
+    "editor": "EDITOR : CESAR MONTERO",
+    "image_url": "https://agssmc.org/newsletter/img/2009/cover2.svg",
+    "page_number": "8 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 04.08.2010",
+    "date": "April 2010",
+    "issue": "Issue 4",
+    "editor": "EDITOR : CESAR MONTERO",
+    "image_url": "https://agssmc.org/newsletter/img/2009/cover3.svg",
+    "page_number": "8 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 12.09.2010",
+    "date": "December 2010",
+    "issue": "Issue 3",
+    "editor": "EDITOR : LUIS GOMEZ",
+    "image_url": "https://agssmc.org/newsletter/img/2010/cover3.svg",
+    "page_number": "8 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.04.2012",
+    "date": "October 2012",
+    "issue": "Issue 1",
+    "editor": "EDITOR : SIERRA MCDONALD",
+    "image_url": "https://agssmc.org/newsletter/img/2012/cover1.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.08.2012",
+    "date": "November 2012",
+    "issue": "Issue 2",
+    "editor": "EDITOR : SIERRA MCDONALD",
+    "image_url": "https://agssmc.org/newsletter/img/2012/cover2.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 12.06.2012",
+    "date": "December 2012",
+    "issue": "Issue 3",
+    "editor": "EDITOR : SIERRA MCDONALD",
+    "image_url": "https://agssmc.org/newsletter/img/2012/cover3.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 04.04.2013",
+    "date": "April 2013",
+    "issue": "Issue 4",
+    "editor": "EDITOR : JONATHAN CANAHUI",
+    "image_url": "https://agssmc.org/newsletter/img/2012/cover4.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1FrMcLWIzeFUt_zFMcPu14A-3vSVOXxZM/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.17.2013",
+    "date": "October 2013",
+    "issue": "Issue 1",
+    "editor": "EDITOR : JONATHAN CANAHUI",
+    "image_url": "https://agssmc.org/newsletter/img/2013/cover1.svg",
+    "page_number": "7 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.14.2013",
+    "date": "November 2013",
+    "issue": "Issue 2",
+    "editor": "EDITOR : JONATHAN CANAHUI",
+    "image_url": "https://agssmc.org/newsletter/img/2013/cover2.svg",
+    "page_number": "7 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 12.05.2013",
+    "date": "December 2013",
+    "issue": "Issue 3",
+    "editor": "EDITOR : JONATHAN CANAHUI",
+    "image_url": "https://agssmc.org/newsletter/img/2013/cover3.svg",
+    "page_number": "7 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.16.2014",
+    "date": "October 2014",
+    "issue": "Issue 1",
+    "editor": "EDITOR : EVELYN HUYNH",
+    "image_url": "https://agssmc.org/newsletter/img/2014/cover1.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1Erkoojj5DLrvIo0WduILXbYexVN536qe/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.06.2014",
+    "date": "November 2014",
+    "issue": "Issue 2",
+    "editor": "EDITOR : EVELYN HUYNH",
+    "image_url": "https://agssmc.org/newsletter/img/2014/cover1.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1YK6JlBVXYVn4RbB2ZydhSeEN9oG1ecPH/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 12.04.2014",
+    "date": "December 2014",
+    "issue": "Issue 3",
+    "editor": "EDITOR : EVELYN HUYNH",
+    "image_url": "https://agssmc.org/newsletter/img/2014/cover1.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1mK7OXf9q9eTHtz7CcRoXm8uTgf6mN-PM/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 05.21.2015",
+    "date": "May 2015",
+    "issue": "Issue 2",
+    "editor": "EDITOR : ALANA RIVERA",
+    "image_url": "https://agssmc.org/newsletter/img/2014/cover2.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/135_FrQCjuWFg5qM-HN65_3dZr3z0-daP/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.08.2015",
+    "date": "October 2015",
+    "issue": "Issue 1",
+    "editor": "EDITOR : ELIZABETH KING",
+    "image_url": "https://agssmc.org/newsletter/img/2015/cover1.svg",
+    "page_number": "16 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.05.2015",
+    "date": "November 2015",
+    "issue": "Issue 2",
+    "editor": "EDITOR : ELIZABETH KING",
+    "image_url": "https://agssmc.org/newsletter/img/2015/cover2.svg",
+    "page_number": "16 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 12.10.2015",
+    "date": "December 2015",
+    "issue": "Issue 3",
+    "editor": "EDITOR : ELIZABETH KING",
+    "image_url": "https://agssmc.org/newsletter/img/2015/cover3.svg",
+    "page_number": "16 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 04.07.2016",
+    "date": "April 2016",
+    "issue": "Issue 4",
+    "editor": "EDITOR : ELIZABETH KING",
+    "image_url": "https://agssmc.org/newsletter/img/2015/cover4.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1a-sY7uwGph4kB2QUdBug-DypksMAEwVG/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 04.12.2016",
+    "date": "April 2016",
+    "issue": "Issue 5",
+    "editor": "EDITOR : ELIZABETH KING",
+    "image_url": "https://agssmc.org/newsletter/img/2015/cover4.svg",
+    "page_number": "8 pages",
+    "print_url": "https://drive.google.com/file/d/1Kwizdzp7YblLm1hPHghLWeDxVrR_p9lg/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 06.02.2016",
+    "date": "June 2016",
+    "issue": "Issue 6",
+    "editor": "EDITOR : ELIZABETH KING",
+    "image_url": "https://agssmc.org/newsletter/img/2015/cover4.svg",
+    "page_number": "8 pages",
+    "print_url": "https://drive.google.com/file/d/1d-N0zA7JIjcKRtt3HAcVfTFWOCw7D8lt/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.02.2017",
+    "date": "November 2017",
+    "issue": "Issue 1",
+    "editor": "EDITOR : THOMAS HOVERSEN",
+    "image_url": "https://agssmc.org/newsletter/img/2017/cover1.svg",
+    "page_number": "8 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 12.07.2017",
+    "date": "December 2017",
+    "issue": "Issue 2",
+    "editor": "EDITOR : THOMAS HOVERSEN",
+    "image_url": "https://agssmc.org/newsletter/img/2017/cover2.svg",
+    "page_number": "8 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 03.22.2018",
+    "date": "March 2018",
+    "issue": "Issue 3",
+    "editor": "EDITOR : THOMAS HOVERSEN",
+    "image_url": "https://agssmc.org/newsletter/img/2017/cover3.svg",
+    "page_number": "7 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 04.05.2018",
+    "date": "April 2018",
+    "issue": "Issue 4",
+    "editor": "EDITOR : THOMAS HOVERSEN",
+    "image_url": "https://agssmc.org/newsletter/img/2017/cover4.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1FrMcLWIzeFUt_zFMcPu14A-3vSVOXxZM/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.15.2018",
+    "date": "November 2018",
+    "issue": "Issue 1",
+    "editor": "EDITOR : ARIANA KALANTARI",
+    "image_url": "https://agssmc.org/newsletter/img/2018/cover1.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1A-okgRwfCf88NbI16jrXYf0-dPoW5qz3/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 12.06.2019",
+    "date": "December 2018",
+    "issue": "Issue 2",
+    "editor": "EDITOR : ARIANA KALANTARI",
+    "image_url": "https://agssmc.org/newsletter/img/2018/cover2.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1_eKE2WVeeuiKNrGqghZv5y14tljIgHg5/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 04.04.2019",
+    "date": "April 2019",
+    "issue": "Issue 3",
+    "editor": "EDITOR : ARIANA KALANTARI",
+    "image_url": "https://agssmc.org/newsletter/img/2018/cover3.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1vxNbDI0Klgw6eANGYGX02Qezsy8BO1t5/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 05.02.2019",
+    "date": "May 2019",
+    "issue": "Issue 4",
+    "editor": "EDITOR : ARIANA KALANTARI",
+    "image_url": "https://agssmc.org/newsletter/img/2018/cover4.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/open?id=16Tgjpe_jij2dy-7cwGrShTaZFgWoBAEX"
+  },
+  {
+    "detailed_date": "Date : 10.17.2019",
+    "date": "October 2019",
+    "issue": "Issue 1",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": "https://agssmc.org/newsletter/img/2019/cover1.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.17.2019",
+    "date": "October 2019",
+    "issue": "Issue 1",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": null,
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.17.2019",
+    "date": "October 2019",
+    "issue": "Issue 1",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": null,
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.17.2019",
+    "date": "October 2019",
+    "issue": "Issue 1",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": null,
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.17.2019",
+    "date": "October 2019",
+    "issue": "Issue 1",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": null,
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.17.2019",
+    "date": "October 2019",
+    "issue": "Issue 1",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": null,
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 10.17.2019",
+    "date": "October 2019",
+    "issue": "Issue 1",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": null,
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1JqqC0bDOCJlkO1QA8GkRfwndhDXOFHTh/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.14.2019",
+    "date": "November 2019",
+    "issue": "Issue 2",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": "https://agssmc.org/newsletter/img/2019/cover2.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1FrMcLWIzeFUt_zFMcPu14A-3vSVOXxZM/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.14.2019",
+    "date": "November 2019",
+    "issue": "Issue 2",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": null,
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1FrMcLWIzeFUt_zFMcPu14A-3vSVOXxZM/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.14.2019",
+    "date": "November 2019",
+    "issue": "Issue 2",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": null,
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1FrMcLWIzeFUt_zFMcPu14A-3vSVOXxZM/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 12.5.2019",
+    "date": "December 2019",
+    "issue": "Issue 3",
+    "editor": "EDITOR : NATASHA GRACE",
+    "image_url": "https://agssmc.org/newsletter/img/2019/cover3.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1RahuCiY4a7uw6Zir4t6jwqwe4AEvij5z/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 05.27.2020",
+    "date": "May 2020",
+    "issue": "Issue 4",
+    "editor": "EDITOR : KIM HWANG YEO",
+    "image_url": "https://agssmc.org/newsletter/img/2019/cover4.svg",
+    "page_number": "20 pages",
+    "print_url": "https://drive.google.com/file/d/1H1ZUXQAoiKTUA4Z3xcKy_GfFG-zAgQZC/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.18.2020",
+    "date": "November 2020",
+    "issue": "Issue 1",
+    "editor": "EDITOR : SOOLEEN KIM",
+    "image_url": "https://agssmc.org/newsletter/img/2020/cover1.svg",
+    "page_number": "20 pages",
+    "print_url": "https://drive.google.com/file/d/1vrpeU2K7gAKqscQ9tQYw2wpNUzdROBhc/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 03.15.2021",
+    "date": "March 2021",
+    "issue": "Issue 2",
+    "editor": "EDITOR : KRISTIVERA VIDINATI",
+    "image_url": "https://agssmc.org/newsletter/img/2020/cover2.svg",
+    "page_number": "9 pages",
+    "print_url": "https://drive.google.com/file/d/18x8ed-X0OoJuJ0OohYSjT8HmvIAL791Q/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 04.07.2021",
+    "date": "April 2021",
+    "issue": "Issue 3",
+    "editor": "EDITOR : KRISTIVERA VIDINATI",
+    "image_url": "https://agssmc.org/newsletter/img/2020/cover3.svg",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1Pw5NA4skLNyu9aJprbVEwlR09-cBgQrA/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 07.01.2021",
+    "date": "July 2021",
+    "issue": "Issue 4",
+    "editor": "EDITOR : KRISTIVERA VIDINATI",
+    "image_url": "https://agssmc.org/newsletter/img/2020/cover4.svg",
+    "page_number": "34 pages",
+    "print_url": "https://drive.google.com/file/d/1Pj4To1khIAtKKyKWAnwR50z7JgANjlz-/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.18.2021",
+    "date": "November 2021",
+    "issue": "Issue 1",
+    "editor": "EDITOR : CLARISSA SHERINE WIDJAJA",
+    "image_url": "https://agssmc.org/newsletter/img/2021/cover1.jpg",
+    "page_number": "20 pages",
+    "print_url": "https://drive.google.com/file/d/1iAhuV5swoZCFU3kZXhlrNZuA05RE_20p/view"
+  },
+  {
+    "detailed_date": "Date : 11.18.2021",
+    "date": "November 2021",
+    "issue": "Issue 2",
+    "editor": "EDITOR : CLARISSA SHERINE WIDJAJA",
+    "image_url": "https://agssmc.org/newsletter/img/2021/cover2.jpg",
+    "page_number": "20 pages",
+    "print_url": "https://drive.google.com/file/d/13TbNcVXFpj1Q5xl6f7vKskCo-Kn-gVvl/view"
+  },
+  {
+    "detailed_date": "Date : 12.30.2021",
+    "date": "November 2021",
+    "issue": "Issue 3",
+    "editor": "EDITOR : CLARISSA SHERINE WIDJAJA",
+    "image_url": "https://agssmc.org/newsletter/img/2021/cover3.jpg",
+    "page_number": "24 pages",
+    "print_url": "https://drive.google.com/file/d/1Vv2oZxj9-qAUPp2fh77nbtdvOflOSB6l/view"
+  },
+  {
+    "detailed_date": "Date : 04.10.2022",
+    "date": "April 2022",
+    "issue": "Issue 4",
+    "editor": "EDITOR : JASON ELLIS",
+    "image_url": "https://agssmc.org/newsletter/img/2021/cover4.PNG",
+    "page_number": "16 pages",
+    "print_url": "https://drive.google.com/file/d/16hIQqZxrHZitI9_pj6ygEye5NeDf8Elj/view"
+  },
+  {
+    "detailed_date": "Date : 05.25.2022",
+    "date": "May 2022",
+    "issue": "Issue 5",
+    "editor": "EDITOR : JASON ELLIS",
+    "image_url": "https://agssmc.org/newsletter/img/2021/cover5.PNG",
+    "page_number": "12 pages",
+    "print_url": "https://drive.google.com/file/d/1o_V3VdZ9Qw4YuS4658DoBaVQ9InVgciM/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 05.21.2022",
+    "date": "May 2022",
+    "issue": "Issue 6",
+    "editor": "EDITOR : JASON ELLIS",
+    "image_url": "https://agssmc.org/newsletter/img/2021/cover6.PNG",
+    "page_number": "16 pages",
+    "print_url": "https://drive.google.com/file/d/1CEntQiezJy5Ecka-PxElbhgCH-lkp858/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 11.29.2022",
+    "date": "November 2022",
+    "issue": "Issue 1",
+    "editor": "EDITOR : CLARISSA SHERINE WIDJAJA",
+    "image_url": "https://agssmc.org/newsletter/img/2022/cover1.PNG",
+    "page_number": "24 pages",
+    "print_url": "https://drive.google.com/file/d/1BVgKRTeYtGepKrf7LeWabG9_WiyMbMYK/view?usp=sharing"
+  },
+  {
+    "detailed_date": "Date : 03.27.2023",
+    "date": "March 2023",
+    "issue": "Issue 2",
+    "editor": "EDITOR : MANUELA CONCHA",
+    "image_url": "https://agssmc.org/newsletter/img/2022/cover2.PNG",
+    "page_number": "18 pages",
+    "print_url": "https://drive.google.com/file/d/1H75jlcBfDmpPPMDVUhYQXBOLDxFX7uId/view?usp=share_link"
+  },
+  {
+    "detailed_date": "Date : 04.16.2023",
+    "date": "April 2023",
+    "issue": "Issue 3",
+    "editor": "EDITOR : MANUELA CONCHA",
+    "image_url": "https://agssmc.org/newsletter/img/2022/cover3.PNG",
+    "page_number": "20 pages",
+    "print_url": "https://drive.google.com/file/d/1Jr92nWsGLoMJCXaZjb5FEdCuQGYyUTRP/view?usp=share_link"
+  },
+  {
+    "detailed_date": "Date : 05.22.2023",
+    "date": "May 2023",
+    "issue": "Issue 4",
+    "editor": "EDITOR : MANUELA CONCHA",
+    "image_url": "https://agssmc.org/newsletter/img/2022/cover4.PNG",
+    "page_number": "29 pages",
+    "print_url": "https://drive.google.com/file/d/1O6gqWHUfhNCLS8rwvMGaURE_9Ue_HhVN/view?usp=share_link=share_link"
+  }
 ]
