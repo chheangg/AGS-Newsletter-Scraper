@@ -1,4 +1,4 @@
-# ags_newsletter_webscrape
+# AGS Newsletter Scraper
 A small python program that scrapes all prints from the old AGS newsletter site
 
 # How to run this web scraper?
